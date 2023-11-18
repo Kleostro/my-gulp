@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-width: 320px;
+  margin: 0 auto;
+  font-family: 'Open-Sans', sans-serif;
+  font-weight: 400;
+}
+
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 15px;
+  max-width: 1210px;
+}

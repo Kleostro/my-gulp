@@ -1,0 +1,17 @@
+// базовые стили
+@import 'fonts';
+@import 'normalize';
+@import 'reset';
+
+// миксины
+@import 'components/mixins/breakpoint';
+
+@import 'common';
+@import 'global';
+// большие куски стилей
+// @import 'components/large/name';
+
+// малые куски стилей
+// @import 'components/small/name';
+
+
